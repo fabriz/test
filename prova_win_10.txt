@@ -1,0 +1,7 @@
+﻿Testo di prova che è stato composto con Windows 10
+
+Caratteri Unicode:
+
+àèéìòù
+
+ŢǄƟ
